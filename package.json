@@ -1,6 +1,6 @@
 {
   "name": "note-taker",
-  "version": "6.14.8",
+  "version": "1.0.0",
   "description": "note taker",
   "main": "server.js",
   "scripts": {
